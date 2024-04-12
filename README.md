@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Back-end developer!
 <!--
 **Gronvolt/gronvolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![https://wakatime.com/badge/user/018ead6f-386a-44ba-b665-e250d3ae7caf.svg](https://wakatime.com/badge/user/018ead6f-386a-44ba-b665-e250d3ae7caf.svg)
